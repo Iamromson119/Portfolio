@@ -3,7 +3,7 @@
 A responsive personal portfolio website built using HTML, CSS, and JavaScript to showcase my skills and projects.
 
 ## 🚀 Live Demo
-[View Live] https://candid-ganache-99e050.netlify.app/
+[View Live] https://jade-naiad-9c7a5a.netlify.app/
 
 ## 🛠 Tech Stack
 - HTML
