@@ -1,26 +1,26 @@
-# Personal Portfolio Website
+# Romson Nathaniel - Portfolio
 
-A responsive personal portfolio website built using HTML, CSS, and JavaScript to showcase my skills and projects.
+Personal portfolio site built with React and Vite.
 
-## 🚀 Live Demo
-[View Live] https://jade-naiad-9c7a5a.netlify.app/
+## Stack
+- React + Vite
+- Plain CSS, no framework
 
-## 🛠 Tech Stack
-- HTML
-- CSS
-- JavaScript
+## Run locally
+```bash
+npm install
+npm run dev
+```
 
-## 📸 Features
-- Responsive design
-- Clean modern UI
-- Smooth navigation
-- Beginner-friendly code structure
+## Build for production
+```bash
+npm run build
+```
+Outputs to `dist/`.
 
-## 📂 How to Run Locally
-1. Clone the repository  
-2. Open `index.html` in your browser
+## Content
+Project, skill, and education data lives in `src/data.js`, edit there rather
+than in the components if you just need to update text or add a project.
 
----
-
-### 👨‍💻 Author
-**Romson Nathaniel**
+The downloadable resume is `public/resume.pdf`, swap that file to update it,
+no code changes needed.
